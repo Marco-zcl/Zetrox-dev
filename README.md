@@ -7,7 +7,7 @@
 </div>
 
 ### Mes informations
-- 🔭 Comment me contacter: email, discord(ZCL#2739).
+- 🔭 Comment me contacter: email, 2229242816@qq.com 🔭discord(ZCL#2739).
 - 🌱 Je développe mes projets en language __JavaScript__, __CSS3__, __SASS__, __Html5__, __TypeScript__, __Ejs__， __PHP__.
 
 ### Je suis un programmeur en bêta testeur !
