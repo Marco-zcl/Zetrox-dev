@@ -7,11 +7,11 @@
 </div>
 
 ### Mes informations
-- 🔭 Comment me contacter: email, discord(Zetrox#1949).
-- 🌱 Je développe mes projets en language __JavaScript__, __CSS3__, __SASS__, __Html5__, __TypeScript__, __Ejs__.
+- 🔭 Comment me contacter: email, discord(ZCL#2739).
+- 🌱 Je développe mes projets en language __JavaScript__, __CSS3__, __SASS__, __Html5__, __TypeScript__, __Ejs__， __PHP__.
 
 ### Je suis un programmeur en bêta testeur !
-- Je m'appelle Jordan, je suis programmeur **web**, je suis aussi étudiant.
+- Je m'appelle Maeco, je suis programmeur **web**, je suis aussi étudiant.
 - Je crée des **interface web** lorsque j'ai du temps libre.
 - Sinon je suis très sociable et très gentil.
 - Donc si vous voulez discuter un jour avec moi, je serais content de parler de mes passions avec vous.
