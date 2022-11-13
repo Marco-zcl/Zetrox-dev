@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **C, Server**
 
-- 👨‍💻 All of my projects are available at [peterkimanzi](https://peterkimanzi.netlify.app/)
-
 - 📫 How to reach me **2229242816@qq.com**
 
 
