@@ -1,24 +1,18 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
-<h1 align="center">Hi 👋, I'm Peter Kimanzi</h1>
-<h3 align="center">A multidisciplinary Full-Stack developer from Nairobi Kenya</h3>
+<h1 align="center">Hi 👋, I'm Marco</h1>
+<h3 align="center">希望通过自学来提升自己的能力</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
-- 🔭 I’m currently working on [Qazini website](https://www.qazini.com/)
+- 🔭 这个是我的个人博客[Marco Blog](https://www.grkhb.top/)
 
-- 🌱 I’m currently learning **laravel, Vue**
-
-- 👯 I’m looking to collaborate on **House payment app**
+- 🌱 I’m currently learning **C, Server**
 
 - 👨‍💻 All of my projects are available at [peterkimanzi](https://peterkimanzi.netlify.app/)
 
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/peter-kimanzi-002299206/)
-
-- 💬 Ask me about ** Laravel, Vue, APIs, PHP, Strapi,SEO **
-
-- 📫 How to reach me **peterkimanzikithumba@gmail.com**
+- 📫 How to reach me **2229242816@qq.com**
 
 
 <h3 align="left">Connect with me:</h3>
