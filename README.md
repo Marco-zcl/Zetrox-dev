@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
-- 🔭 这个是我的个人博客[Marco Blog](https://www.grkhb.top/)
+- 🔭 这个是我的个人博客[Marco Blog](https://www.marco1337.shop/)
 
 - 🌱 I’m currently learning **C, Server**
 
