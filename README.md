@@ -30,16 +30,15 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 开源项目
-- [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
-- [一个简洁优雅的hexo主题](https://github.com/JoeyBling/hexo-theme-yilia-plus)
-- [hexo-theme-yilia-plus配置Demo](https://github.com/JoeyBling/yilia-plus-demo)
-- [自动为hexo中的图片映射绝对路径](https://github.com/JoeyBling/hexo-filter-image)
-- [✏️✏️Java软件工程师简历](https://github.com/JoeyBling/cv)
+- [使用和学习Python语言](https://github.com/Marco-zcl/python)
+- [CSGO服务器插件支撑库](https://github.com/Marco-zcl/csgo)
+- [CTF使用脚本](https://github.com/Marco-zcl/CTF)
+- [文档程序](https://github.com/Marco-zcl/marco-zcl.github.io)
+- [程序存储](https://github.com/Marco-zcl/Software)
 - [一款简洁优雅的VuePress主题](https://github.com/JoeyBling/vuepress-theme-yilia-plus)
 - [VuePress集成Live2D看板娘](https://github.com/JoeyBling/vuepress-plugin-helper-live2d)
 - [VuePress集成Gitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk)
 - [不蒜子访问量统计功能](https://github.com/JoeyBling/busuanzi.pure.js)
-- [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall)
 
 ### 关于我
 - [技术笔记](https://www.marco1337.shop/)
