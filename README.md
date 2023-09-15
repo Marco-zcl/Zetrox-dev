@@ -62,7 +62,7 @@ _____________|','   ///_/-------------/   |
 - [不蒜子访问量统计功能](https://github.com/JoeyBling/busuanzi.pure.js)
 
 ### 关于我
-- [技术笔记](https://www.marco1337.shop/)
+- [技术笔记](https://blog.marcoweb.top/)
 
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
