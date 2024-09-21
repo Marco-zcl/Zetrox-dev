@@ -56,13 +56,13 @@ _____________|','   ///_/-------------/   |
 - [CTF使用脚本](https://github.com/Marco-zcl/CTF)
 - [文档程序](https://github.com/Marco-zcl/marco-zcl.github.io)
 - [程序存储](https://github.com/Marco-zcl/Software)
-- [一款简洁优雅的VuePress主题](https://github.com/JoeyBling/vuepress-theme-yilia-plus)
-- [VuePress集成Live2D看板娘](https://github.com/JoeyBling/vuepress-plugin-helper-live2d)
-- [VuePress集成Gitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk)
-- [不蒜子访问量统计功能](https://github.com/JoeyBling/busuanzi.pure.js)
+- [RSA解密](https://github.com/Marco-zcl/RSA)
+- [luban客户端第三方](https://github.com/Marco-zcl/luban)
+- [PHP-Live-broadcast-room](https://github.com/Marco-zcl/PHP-Live-broadcast-room)
+- [正在开发中ing...](https://github.com/Marco-zcl)
 
 ### 关于我
-- [技术笔记](https://blog.marcoweb.top/)
+- [技术笔记](2tina.top)
 
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
