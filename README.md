@@ -51,14 +51,14 @@ _____________|','   ///_/-------------/   |
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 开源项目
-- [使用和学习Python语言](https://github.com/Marco-zcl/python)
-- [CSGO服务器插件支撑库](https://github.com/Marco-zcl/csgo)
-- [CTF使用脚本](https://github.com/Marco-zcl/CTF)
+- [使用和学习Python语言](https://github.com/WebSafety-2tina/Python-3.0)
+- [CSGO服务器插件支撑库](https://github.com/WebSafety-2tina/csgo)
+- [CTF使用脚本](https://github.com/WebSafety-2tina/CTF)
 - [文档程序](https://github.com/Marco-zcl/marco-zcl.github.io)
-- [程序存储](https://github.com/Marco-zcl/Software)
-- [RSA解密](https://github.com/Marco-zcl/RSA)
-- [luban客户端第三方](https://github.com/Marco-zcl/luban)
-- [PHP-Live-broadcast-room](https://github.com/Marco-zcl/PHP-Live-broadcast-room)
+- [程序存储](https://github.com/WebSafety-2tina/Software)
+- [RSA解密](https://github.com/WebSafety-2tina/RSA)
+- [luban客户端第三方](https://github.com/WebSafety-2tina/luban)
+- [PHP-Live-broadcast-room](https://github.com/WebSafety-2tina/PHP-Live-broadcast-room)
 - [正在开发中ing...](https://github.com/Marco-zcl)
 
 ### 关于我
